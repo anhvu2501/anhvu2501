@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Vu Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhvu2501&theme=gotham&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anhvu2501&layout=compact&theme=gotham&langs_count=8">
+
+<p align="center" dir="auto">
+<img src = "https://github-readme-stats.vercel.app/api?username=anhvu2501&theme=gotham&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anhvu2501&layout=compact&theme=gotham&langs_count=8">
+</p>
 
 <img src = "https://activity-graph.herokuapp.com/graph?username=anhvu2501&custom_title=Vu%27s%20Contribution%20Graph&theme=gotham&bg_color=282828&line=00E7F3&point=00E7F3">
